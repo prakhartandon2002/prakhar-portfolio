@@ -33,7 +33,7 @@ const Portfolio = () => {
       title: "CodeForces",
       img: IMG3,
       description: "Acheived Expert Ranking in codeforces with max-rating of 1606, Solved more than 600 questions",
-      technologies: "Competetive Programming | Top 8% of world",
+      technologies: "Competitive Programming | Top 8% of world",
       github: "https://codeforces.com/profile/tandonjiii",
     },
     {
@@ -42,7 +42,7 @@ const Portfolio = () => {
       img: IMG4,
       description:
         "Rated 4 star with maximum rating(1950)",
-      technologies: "Competetive Programming ",
+      technologies: "Competitive Programming ",
       github: "https://www.codechef.com/users/tandonjiii",
     },
     {
