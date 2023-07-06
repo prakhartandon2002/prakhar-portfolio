@@ -4,6 +4,7 @@ import React, { useRef, useState } from 'react';
 
 import { MdOutlineEmail } from 'react-icons/md';
 import emailjs from '@emailjs/browser';
+import { BiFontSize } from 'react-icons/bi';
 
 const Contact = () => {
   const [message, setMessage] = useState(false);
@@ -42,7 +43,7 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>prakhartandon9898@gmail.com</h5>
+            <p className="emailname">prakhartandon9898@gmail.com</p>
             <a href="mailto:prakhartandon9898@gmail.com">Send a message</a>
           </article>
         </div>

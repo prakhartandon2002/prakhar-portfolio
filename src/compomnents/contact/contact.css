@@ -11,6 +11,10 @@
     justify-content: center;
     gap: 1.2rem;
 }
+.emailname
+{
+    font-size: 10px;
+}
 
 .contact__option {
     background: var(--color-bg-variant);
