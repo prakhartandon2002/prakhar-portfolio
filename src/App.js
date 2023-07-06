@@ -14,6 +14,7 @@ import Portfolio from './compomnents/portfolio/portfolio';
 import Contact from './compomnents/contact/contact';
 import Intro from './compomnents/intro/intro';
 import Footer from './compomnents/footer/footer';
+import Topbar from './compomnents/topbar/topbar';
 // import Acheivements from './compomnents/Acheivements/Acheivements';
 import './App.css';
 
@@ -21,6 +22,7 @@ function App() {
   return (
    <>
    <Header></Header>
+   <Topbar></Topbar>
    <Intro></Intro>
    <Experience></Experience>
    <Portfolio></Portfolio>
